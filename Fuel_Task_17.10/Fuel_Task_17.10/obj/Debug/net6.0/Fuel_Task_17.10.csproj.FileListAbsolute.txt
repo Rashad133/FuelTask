@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\Fuel_Task_17.10\Fuel_Task_17.10\Fuel_Task_17.10\bin\Debug\net6.0\Fuel_Task_17.10.exe
+C:\Users\ACER\Desktop\Fuel_Task_17.10\Fuel_Task_17.10\Fuel_Task_17.10\bin\Debug\net6.0\Fuel_Task_17.10.deps.json
+C:\Users\ACER\Desktop\Fuel_Task_17.10\Fuel_Task_17.10\Fuel_Task_17.10\bin\Debug\net6.0\Fuel_Task_17.10.runtimeconfig.json
+C:\Users\ACER\Desktop\Fuel_Task_17.10\Fuel_Task_17.10\Fuel_Task_17.10\bin\Debug\net6.0\Fuel_Task_17.10.dll
+C:\Users\ACER\Desktop\Fuel_Task_17.10\Fuel_Task_17.10\Fuel_Task_17.10\bin\Debug\net6.0\Fuel_Task_17.10.pdb
+C:\Users\ACER\Desktop\Fuel_Task_17.10\Fuel_Task_17.10\Fuel_Task_17.10\obj\Debug\net6.0\Fuel_Task_17.10.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Fuel_Task_17.10\Fuel_Task_17.10\Fuel_Task_17.10\obj\Debug\net6.0\Fuel_Task_17.10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\Fuel_Task_17.10\Fuel_Task_17.10\Fuel_Task_17.10\obj\Debug\net6.0\Fuel_Task_17.10.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Fuel_Task_17.10\Fuel_Task_17.10\Fuel_Task_17.10\obj\Debug\net6.0\Fuel_Task_17.10.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Fuel_Task_17.10\Fuel_Task_17.10\Fuel_Task_17.10\obj\Debug\net6.0\Fuel_Task_17.10.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Fuel_Task_17.10\Fuel_Task_17.10\Fuel_Task_17.10\obj\Debug\net6.0\Fuel_Task_17.10.dll
+C:\Users\ACER\Desktop\Fuel_Task_17.10\Fuel_Task_17.10\Fuel_Task_17.10\obj\Debug\net6.0\refint\Fuel_Task_17.10.dll
+C:\Users\ACER\Desktop\Fuel_Task_17.10\Fuel_Task_17.10\Fuel_Task_17.10\obj\Debug\net6.0\Fuel_Task_17.10.pdb
+C:\Users\ACER\Desktop\Fuel_Task_17.10\Fuel_Task_17.10\Fuel_Task_17.10\obj\Debug\net6.0\Fuel_Task_17.10.genruntimeconfig.cache
+C:\Users\ACER\Desktop\Fuel_Task_17.10\Fuel_Task_17.10\Fuel_Task_17.10\obj\Debug\net6.0\ref\Fuel_Task_17.10.dll
